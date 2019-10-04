@@ -33,7 +33,7 @@ You can do STRIKETHROUGH ~~this~~
 ## Code Format
 **`<p>some para content</p>`** - A code line
 
-``` shell
+```sh
 $ cd dir/
 $ pwd 
 /c/users/user/dir
